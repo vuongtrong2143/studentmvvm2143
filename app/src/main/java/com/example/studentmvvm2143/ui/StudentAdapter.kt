@@ -5,8 +5,8 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.example.studentmvvm.databinding.ItemStudentRoomBinding
-import com.example.studentmvvm.model.Student
+import com.example.studentmvvm2143.databinding.ItemStudentRoomBinding
+import com.example.studentmvvm2143.model.Student
 
 class StudentAdapter(
     private val onDeleteClick: (Student) -> Unit

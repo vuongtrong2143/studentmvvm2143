@@ -4,7 +4,7 @@ import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.example.studentmvvm.model.Student
+import com.example.studentmvvm2143.model.Student
 
 @Database(entities = [Student::class], version = 1, exportSchema = false)
 abstract class AppDatabase : RoomDatabase() {

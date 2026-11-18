@@ -4,8 +4,8 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.asLiveData
 import androidx.lifecycle.viewModelScope
-import com.example.studentmvvm.model.Student
-import com.example.studentmvvm.repository.StudentRepository
+import com.example.studentmvvm2143.model.Student
+import com.example.studentmvvm2143.repository.StudentRepository
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 

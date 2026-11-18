@@ -1,7 +1,7 @@
 package com.example.studentmvvm2143.repository
 
-import com.example.studentmvvm.data.StudentDao
-import com.example.studentmvvm.model.Student
+import com.example.studentmvvm2143.data.StudentDao
+import com.example.studentmvvm2143.model.Student
 import kotlinx.coroutines.flow.Flow
 
 class StudentRepository(private val studentDao: StudentDao) {

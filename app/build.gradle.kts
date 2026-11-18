@@ -35,7 +35,7 @@ android {
 }
 
 dependencies {
-    val roomVersion = "2.6.1"
+    val roomVersion = "2.7.1"
     val lifecycleVersion = "2.7.0"
 // Room Persistence Library
     implementation("androidx.room:room-runtime:$roomVersion")
